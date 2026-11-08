@@ -20,8 +20,8 @@ export const metadata: Metadata = {
   title: "مكتب العدالة للمحاماة",
   description:
     "مكتب محاماة واستشارات قانونية – نموذج تجريبي بتصميم ثلاثي الأبعاد تفاعلي",
+  icons: { icon: "/favicon.svg" },
 };
-
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
